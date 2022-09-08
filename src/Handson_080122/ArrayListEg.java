@@ -3,7 +3,7 @@ package Handson_080122;
 import java.util.ArrayList;
 import java.util.ListIterator;
 
-public class ArrayListEg {
+class ArrayListEg {
 	public static void main(String[] args) {
 		ArrayList<String> list = new ArrayList<>();
 		list.add("abc");

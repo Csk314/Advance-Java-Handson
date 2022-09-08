@@ -29,6 +29,7 @@ public class Demo080522Anagram {
 		sc.close();
 		// System.out.println(a);
 		System.out.println(isAnagram(s1, s2));
+		ArrayListEg eg3 = new ArrayListEg();
 	}
 
 }

@@ -36,5 +36,6 @@ public class DemoJDBCMSSQL {
 
 		System.out.println("EmployeeID :" + EmployeeID);
 		System.out.println("First_Name :" + First_Name);
+		conn.close();
 	}
 }
